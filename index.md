@@ -1,4 +1,4 @@
-##　ようこそ
+## ようこそ
 
 You can use the [editor on GitHub](https://github.com/koyama88/api-practice-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
