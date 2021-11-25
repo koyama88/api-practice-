@@ -6,10 +6,10 @@
 
 私はkoyama88です。新潟県出身です。
 
-### Jekyll Themes
+### 好きなもの
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/koyama88/api-practice-/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+私には好きなものがたくさんあります。
 
-### Support or Contact
+### 最後に
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+私のことを知ってください。よろしくお願いします。
